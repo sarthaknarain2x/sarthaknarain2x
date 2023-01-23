@@ -8,7 +8,7 @@ Hello! I'm Sarthak Narain :wave:
 🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Web Development<br>
   
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sarthaknarain2x.visitor&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=sarthaknarain2x)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarthakknarain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-narain) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sarthaknarain_55522) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SarthakNarain1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sarthaknarain2393) 
